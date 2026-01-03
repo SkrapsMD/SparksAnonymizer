@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "A Python package for anonymizing dataframes for LLM input"
 readme = "README.md"
 authors = [
-    { name = "SkrapsMD", email = "" }
+    { name = "SkrapsMD" }
 ]
 license = { text = "MIT" }
 requires-python = ">=3.8"
